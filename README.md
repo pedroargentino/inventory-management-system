@@ -11,7 +11,7 @@ O sistema não está mais em produção e foi mantido apenas para fins acadêmic
 
 Backend: Java, Spring Boot, MongoDB
 
-Frontend: React, JavaScript ,HTML / CSS
+Frontend: React, JavaScript, HTML / CSS
 
 Swagger (documentação da API)
 
